@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "S? th¡ch: Xem Phim" 
 "K? nang: N¢i" 
+=======
+"S ? th¡ch: Xem Phim" 
+"K ? nang: N¢i" 
+>>>>>>> add-info
