@@ -1,2 +1,3 @@
-"S? th�ch: Xem Phim" 
-"K? nang: N�i" 
+"Sở thích: Xem Phim" 
+"Kỹ năng: nói" 
+
