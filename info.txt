@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "S? th¡ch: Xem Phim" 
 "K? nang: N¢i" 
 =======
 "S ? th¡ch: Xem Phim" 
 "K ? nang: N¢i" 
 >>>>>>> add-info
+=======
+"Sá»Ÿ thÃ­ch: Xem Phim" 
+"Ká»¹ nÄƒng: nÃ³i" 
+
+>>>>>>> feature-update-B
